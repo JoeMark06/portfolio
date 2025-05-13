@@ -4,56 +4,56 @@ const projects = [
   {
     title: 'SALES REPORT',
     type: 'DASHBOARD SALES REPORT',
-    image: '/dist/assets/salesreport.png',
+    image: 'https://images.pexels.com/photos/7947541/pexels-photo-7947541.jpeg',
     description:
       'The main objectives of a sales dashboard in Power BI are to track sales performance and analyze product and team effectiveness.',
   },
   {
     title: 'FINANCIAL ANALYSIS',
     type: 'DASHBOARD FINANCIAL REPORT',
-    image: '/dist/assets/financialreport.png',
+    image: 'https://images.pexels.com/photos/7567434/pexels-photo-7567434.jpeg',
     description:
       'Track and monitor financial health and performance across key areas with essential KPIs including revenue, expenses, and ROI.',
   },
   {
     title: 'PROJECT MANAGEMENT',
     type: 'DASHBOARD PROJECT MANAGEMENT',
-    image: '/dist/assets/PMreport.png',
+    image: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg',
     description:
       'Monitor project timelines, resource allocation, and progress tracking across multiple initiatives.',
   },
   {
     title: 'SUPPLY CHAIN MANAGEMENT',
     type: 'DASHBOARD SUPPLY CHAIN',
-    image: '/dist/assets/SCreport.png',
+    image: 'https://images.pexels.com/photos/4481259/pexels-photo-4481259.jpeg',
     description:
       'The main objectives of a sales dashboard in Power BI are to track sales performance and analyze product and team effectiveness.',
   },
   {
     title: 'HOSPITAL EMERGENCY ROOM',
     type: 'DASHBOARD ER MANAGEMENT',
-    image: '/dist/assets/ERreport.png',
+    image: 'https://images.pexels.com/photos/247786/pexels-photo-247786.jpeg',
     description:
       'Monitor patient flow, resource utilization, and care outcomes in emergency department settings.',
   },
   {
     title: 'CHOCOLATE SALES REPORT',
     type: 'DASHBOARD CHOCOLATE SALES',
-    image: '/dist/assets/Chocoreport.png',
+    image: 'https://images.pexels.com/photos/65882/chocolate-dark-coffee-confiserie-65882.jpeg',
     description:
       'Track product performance and identify customer preferences with detailed sales and demographic analysis.',
   },
   {
     title: '6S MANAGEMENT',
     type: 'DASHBOARD 6S MANAGEMENT',
-    image: '/dist/assets/6Sreport.png',
+    image: 'https://images.pexels.com/photos/1108101/pexels-photo-1108101.jpeg',
     description:
       'Track and improve workplace organization with 5S methodology implementation metrics and progress indicators.',
   },
   {
     title: 'KEY PERFORMANCE INDICATOR',
     type: 'KPI DASHBOARD',
-    image: '/dist/assets/KPIreport.png',
+    image: 'https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg',
     description:
       'Monitor and evaluate performance metrics across various business functions with trend analysis and comparative metrics.',
   },
