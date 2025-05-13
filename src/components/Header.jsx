@@ -18,7 +18,7 @@ function Header() {
       </div>
       <div className="w-1/3 flex justify-center">
         <img
-          src="/assets/me.png"
+          src="/dist/assets/me.png" // Replace with your image path
           alt="Joe Mark B. Tolentino"
           className="rounded-full w-full h-auto max-w-xs object-cover"
         />

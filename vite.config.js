@@ -6,10 +6,7 @@ export default defineConfig({
   server: {
     hmr: {
       protocol: 'ws',
-      host: 'localhost',
-      timeout: 60000,
-      overlay: true,
-      clientPort: 5173
+      timeout: 30000
     }
   }
 })
